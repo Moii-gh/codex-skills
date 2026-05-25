@@ -1,0 +1,4 @@
+interface:
+  display_name: "Universal Premium UI Style"
+  short_description: "Premium dark minimal UI direction"
+  default_prompt: "Use $universal-premium-ui-style to redesign this interface with a premium dark minimal aesthetic."

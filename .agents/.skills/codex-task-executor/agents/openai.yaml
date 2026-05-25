@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Task Executor"
+  short_description: "Focused code task execution"
+  default_prompt: "Use $codex-task-executor to implement this task safely and verify the result."

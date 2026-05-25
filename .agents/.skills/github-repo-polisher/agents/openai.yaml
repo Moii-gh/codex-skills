@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Repo Polisher"
+  short_description: "Polish repositories before GitHub publishing"
+  default_prompt: "Use $github-repo-polisher to prepare this project for a clean GitHub publication."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Student Homework Builder"
+  short_description: "Build clear student programming assignments"
+  default_prompt: "Use $student-homework-builder to complete this educational programming assignment clearly and simply."

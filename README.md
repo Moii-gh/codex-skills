@@ -1,20 +1,21 @@
-# Codex Skills
+# Скиллы Codex (Codex Skills)
 
-A collection of custom Codex skills for safer project execution, cleaner code changes, and modern premium UI design.
+Коллекция пользовательских скиллов Codex для более безопасного выполнения проектов, более чистых изменений кода и современного премиального дизайна пользовательского интерфейса (UI).
 
-## Skills
+## Скиллы
 
 ### universal-premium-ui-style
 
-A universal UI design skill for applying a modern, premium, minimal, dark, polished interface style across web apps, mobile apps, dashboards, widgets, admin panels, landing pages, forms, and prototypes.
+Универсальный скилл дизайна пользовательского интерфейса для применения современного, премиального, минималистичного, темного и изысканного стиля интерфейса в веб-приложениях, мобильных приложениях, дашбордах, виджетах, панелях администратора, целевых страницах (лендингах), формах и прототипах.
 
 ### codex-task-executor
 
-A practical execution skill for Codex that forces the agent to inspect the project first, understand the architecture, make focused changes, avoid breaking existing logic, verify the result, and report changes clearly.
+Практический навык выполнения задач для Codex, который заставляет агента сначала изучить проект, понять его архитектуру, внести сфокусированные изменения, избежать нарушения существующей логики, проверить результат и четко отчитаться об изменениях.
 
-## Recommended Usage
+## Рекомендуемое использование
 
-For general programming tasks:
+Для общих задач программирования:
 
 ```text
-Use the codex-task-executor skill to complete this task safely and fully.
+Используйте навык codex-task-executor для безопасного и полного выполнения этой задачи.
+```

@@ -201,38 +201,3 @@ Create or improve README.md, add a proper .gitignore, and check that no secrets 
 
 Use the universal-premium-ui-style skill to redesign this dashboard.
 Keep the interface dark, modern, minimal, responsive, and production-ready.
-
-## Темы для GitHub
-
-Можно добавить такие topics:
-
-codex
-openai
-ai-agent
-developer-tools
-prompt-engineering
-skills
-ui-design
-github
-automation
-student-projects
-
-## Заметки
-
-Эти скилы можно использовать отдельно или вместе.
-
-Для большинства задач с кодом достаточно начать с:
-
-Use the codex-task-executor skill.
-
-Если задача связана с интерфейсом, добавь:
-
-Use the universal-premium-ui-style skill.
-
-Если это учебная работа или лабораторная, добавь:
-
-Use the student-homework-builder skill.
-
-Если проект нужно выложить на GitHub, добавь:
-
-Use the github-repo-polisher skill.
